@@ -178,7 +178,7 @@ wheels = [
 [[package]]
 name = "secondapp"
 version = "0.1.0"
-source = { editable = "apps/secondApp" }
+source = { editable = "apps/secondapp" }
 dependencies = [
     { name = "numpy" },
 ]

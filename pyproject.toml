@@ -7,7 +7,7 @@ requires-python = ">=3.14"
 
 [tool.uv.sources]
 myapp = { workspace = true }
-secondApp = { workspace = true }
+secondapp = { workspace = true }
 
 [tool.uv.workspace]
 members = ["apps/*"]
